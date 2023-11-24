@@ -1,0 +1,47 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 12402012E212A
+#
+DEF 12402012E212A J 0 40 Y Y 1 L N
+F0 "J" -500 530 50 H V L BNN
+F1 "12402012E212A" -500 -530 50 H V L BNN
+F2 "AMPHENOL_12402012E212A" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Amphenol ICC (Commercial Products)" 0 0 50 H I L BNN "MF"
+F5 "3.26 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F6 "None" 0 0 50 H I L BNN "Package"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "https://www.snapeda.com/parts/12402012E212A/Amphenol/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F9 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F10 "4" 0 0 50 H I L BNN "PARTREV"
+F11 "https://www.snapeda.com/parts/12402012E212A/Amphenol/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F12 "12402012E212A" 0 0 50 H I L BNN "MP"
+F13 "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5533564&manufacturer=Amphenol ICC (Commercial Products)&part_name=12402012E212A&search_term=None" 0 0 50 H I L BNN "Purchase-URL"
+F14 "\nUSB2.0, Type C, Top mount, CH 1.68mm, Dual Row SMT\n" 0 0 50 H I L BNN "Description"
+F15 "In Stock" 0 0 50 H I L BNN "Availability"
+F16 "Amphenol" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -500 -500 500 500 0 0 10 f
+X D+_A A6 -700 100 200 R 40 40 0 0 B 
+X CC1_A A5 -700 200 200 R 40 40 0 0 B 
+X SBU1 A8 -700 -100 200 R 40 40 0 0 B 
+X D-_A A7 -700 0 200 R 40 40 0 0 B 
+X SHIELD SH1 700 -300 200 L 40 40 0 0 P 
+X SHIELD SH2 700 -300 200 L 40 40 0 0 P 
+X SHIELD SH3 700 -300 200 L 40 40 0 0 P 
+X SHIELD SH4 700 -300 200 L 40 40 0 0 P 
+X GND A1_B12 700 -400 200 L 40 40 0 0 W 
+X GND B1_A12 700 -400 200 L 40 40 0 0 W 
+X VBUS A4_B9 700 400 200 L 40 40 0 0 W 
+X VBUS B4_A9 700 400 200 L 40 40 0 0 W 
+X D+_B B6 700 0 200 L 40 40 0 0 B 
+X CC1_B B5 700 -100 200 L 40 40 0 0 B 
+X SBU2 B8 700 200 200 L 40 40 0 0 B 
+X D-_B B7 700 100 200 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,195 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+AMPHENOL_12402012E212A
+$EndINDEX
+$MODULE AMPHENOL_12402012E212A
+Po 0 0 0 15 00000000 00000000 ~~
+Li AMPHENOL_12402012E212A
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -2.255 -8.405 1 1 0 0.05 N V 21 "AMPHENOL_12402012E212A"
+T1 -1.62 -6.715 1 1 0 0.05 N V 21 "VAL**"
+DS -4.02 -4.73 -4.02 -3.63 0 28
+DA -4.32 -3.63 -4.32 -3.33 -900 0 28
+DA -4.32 -3.63 -4.62 -3.63 -900 0 28
+DS -4.62 -3.63 -4.62 -4.73 0 28
+DA -4.32 -4.73 -4.32 -5.03 -900 0 28
+DA -4.32 -4.73 -4.02 -4.73 -900 0 28
+DS 4.62 -4.73 4.62 -3.63 0 28
+DA 4.32 -3.63 4.32 -3.33 -900 0 28
+DA 4.32 -3.63 4.02 -3.63 -900 0 28
+DS 4.02 -3.63 4.02 -4.73 0 28
+DA 4.32 -4.73 4.32 -5.03 -900 0 28
+DA 4.32 -4.73 4.62 -4.73 -900 0 28
+DA -4.32 0.4 -4.02 0.4 900 0 28
+DS -4.02 0.4 -4.02 -0.4 0 28
+DA -4.32 -0.4 -4.32 -0.7 900 0 28
+DA -4.32 -0.4 -4.62 -0.4 900 0 28
+DS -4.62 -0.4 -4.62 0.4 0 28
+DA -4.32 0.4 -4.32 0.7 900 0 28
+DA 4.32 0.4 4.62 0.4 900 0 28
+DS 4.62 0.4 4.62 -0.4 0 28
+DA 4.32 -0.4 4.32 -0.7 900 0 28
+DA 4.32 -0.4 4.02 -0.4 900 0 28
+DS 4.02 -0.4 4.02 0.4 0 28
+DA 4.32 0.4 4.32 0.7 900 0 28
+DS -4.47 -4.75 4.47 -4.75 0.127 27
+DS 4.47 -4.75 4.47 2.6 0.127 27
+DS 4.47 2.6 -4.47 2.6 0.127 27
+DS -4.47 2.6 -4.47 -4.75 0.127 27
+DS 4.47 -2.81 4.47 -1.22 0.127 21
+DS 4.47 2.6 4.47 1.22 0.127 21
+DS -4.47 -2.81 -4.47 -1.22 0.127 21
+DS -4.47 2.6 -4.47 1.22 0.127 21
+DS 4.47 2.6 -4.47 2.6 0.127 21
+DS -5.095 -5.57 -5.095 2.85 0.05 26
+DS -5.095 2.85 5.095 2.85 0.05 26
+DS 5.095 2.85 5.095 -5.57 0.05 26
+DS 5.095 -5.57 -5.095 -5.57 0.05 26
+$PAD
+Sh "A1_B12" R 0.6 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.2 -4.75
+$EndPAD
+$PAD
+Sh "A4_B9" R 0.6 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.4 -4.75
+$EndPAD
+$PAD
+Sh "B8" R 0.3 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.75 -4.75
+$EndPAD
+$PAD
+Sh "A5" R 0.3 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.25 -4.75
+$EndPAD
+$PAD
+Sh "B7" R 0.3 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.75 -4.75
+$EndPAD
+$PAD
+Sh "A6" R 0.3 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.25 -4.75
+$EndPAD
+$PAD
+Sh "A7" R 0.3 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.25 -4.75
+$EndPAD
+$PAD
+Sh "B6" R 0.3 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.75 -4.75
+$EndPAD
+$PAD
+Sh "A8" R 0.3 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.25 -4.75
+$EndPAD
+$PAD
+Sh "B5" R 0.3 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.75 -4.75
+$EndPAD
+$PAD
+Sh "B4_A9" R 0.6 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.4 -4.75
+$EndPAD
+$PAD
+Sh "B1_A12" R 0.6 1.14 0 0 0
+At SMD N 00088000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.2 -4.75
+$EndPAD
+$PAD
+Sh "SH1" O 2.1 1.05 0 0 900
+Dr 0.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -4.32 -4.18
+$EndPAD
+$PAD
+Sh "SH2" O 2.1 1.05 0 0 900
+Dr 0.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 4.32 -4.18
+$EndPAD
+$PAD
+Sh "SH3" O 1.8 0.9 0 0 900
+Dr 0.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -4.32 0
+$EndPAD
+$PAD
+Sh "SH4" O 1.8 0.9 0 0 900
+Dr 0.6 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 4.32 0
+$EndPAD
+$PAD
+Sh "Hole" C 0.65 0.65 0 0 0
+Dr 0.65 0 0
+At HOLE N 00C0FFFF
+Po 2.89 -3.68
+$EndPAD
+$PAD
+Sh "Hole" C 0.65 0.65 0 0 0
+Dr 0.65 0 0
+At HOLE N 00C0FFFF
+Po -2.89 -3.68
+$EndPAD
+$EndMODULE AMPHENOL_12402012E212A

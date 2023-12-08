@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-S3-WROOM-1(N16R8)")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/ESP32-S3-WROOM-1(N16R8).kicad_sym")(options "")(descr ""))
+  (lib (name "SD18OB261-060")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/SD18OB261-060.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX98357AETE+T")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/MAX98357AETE+T.kicad_sym")(options "")(descr ""))
+  (lib (name "MC-306-D")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/MC-306-D.kicad_sym")(options "")(descr ""))
+  (lib (name "AMS1117-3_3_C347222")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/AMS1117-3_3_C347222.kicad_sym")(options "")(descr ""))
+  (lib (name "HC-TYPE-C-16P-CH2_58-3A-02")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/HC-TYPE-C-16P-CH2_58-3A-02.kicad_sym")(options "")(descr ""))
+  (lib (name "XY308-2_54-2P")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/XY308-2_54-2P.kicad_sym")(options "")(descr ""))
+  (lib (name "LESD5D5_0CT1G")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/LESD5D5_0CT1G.kicad_sym")(options "")(descr ""))
+)
